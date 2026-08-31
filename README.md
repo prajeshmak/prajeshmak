@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:2E0854,50:6A00FF,75:00D4FF,100:000000&height=250&section=header&text=Hi%20There,%20I'm%20Ritika%20%F0%9F%91%8B&fontSize=44&fontColor=00F0FF&animation=twinkling&fontAlignY=35&desc=Full-Stack%20MERN%20Developer%20%7C%20Java%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&descColor=B084FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:2E0854,50:6A00FF,75:00D4FF,100:000000&height=250&section=header&text=Hi%20There,%20I'm%20Prajesh%20&fontSize=44&fontColor=00F0FF&animation=twinkling&fontAlignY=35&desc=Data-Analyst%20Python%20Developer%20%7C%20PowerBI%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&descColor=B084FF"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Ritika;Full-Stack+MERN+Developer;Java+Developer;AI+Enthusiast;Open+Source+Learner" alt="typing-svg"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Prajesh;Data+Analyst+Python+Developer;PowerBI+Developer;AI+Enthusiast;Open+Source+Learner" alt="typing-svg"/>
 
 <br/>
 
