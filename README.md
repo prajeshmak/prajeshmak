@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00F0FF?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/BATCH-2027-B084FF?style=for-the-badge&labelColor=000000"/>
+# <img src="https://img.shields.io/badge/BATCH-2027-B084FF?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/FOCUS-MERN%20%2B%20AI-6A00FF?style=for-the-badge&labelColor=000000"/>
 
 </div>
